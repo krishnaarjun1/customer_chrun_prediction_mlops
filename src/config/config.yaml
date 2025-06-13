@@ -1,0 +1,5 @@
+data_path: C:/Users/HP/Desktop/Customer_Analysis/Customer_Churn_Prediction/data/raw/customer_churn_dataset-testing-master.csv
+model_output: artifacts/model.pkl
+target_column: Churn
+random_state: 42
+test_size: 0.2
